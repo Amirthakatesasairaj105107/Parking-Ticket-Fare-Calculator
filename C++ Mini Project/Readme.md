@@ -1,1 +1,3 @@
-
+                                                               Mini Project 
+                                                       Parking Ticket Fare Calculator
+Vehicle ticket fare calculator is an automated system that generates fare for a vehicle that has been parked in a parking space like malls, private companies, theaters, parks etc. It is a graphic free project that generates fare for different types of vehicles based on their entry and exit time (no of hours parked) with respect to a fixed rate. This project helps to minimize human errors and is also fast in generating fare with ease.
