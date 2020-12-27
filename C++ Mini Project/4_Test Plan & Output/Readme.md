@@ -1,1 +1,1 @@
-File comsists of Test Plan and output of the mini project
+File comsists of Test Plan and output(Snapshot's) of the mini project
